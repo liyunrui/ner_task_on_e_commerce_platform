@@ -1,0 +1,13 @@
+[[09/06/2018 06:50:46 PM]] there is no duplicated item in beauty
+[[09/06/2018 06:50:47 PM]] thers is no bugging in validating strategy on tv_and_laptop/shopee
+[[09/06/2018 06:50:47 PM]] thers is no bugging in validating strategy on personal_care_and_beauty_shopee/shopee
+[[09/06/2018 06:51:10 PM]] ratio of sku in 3c cannot find brand name given his item_name /shopee : 0.0346 
+[[09/06/2018 06:51:10 PM]] ratio of sku in beauty cannot find brand name given his item_name / shopee: 0.0745
+[[09/06/2018 06:51:10 PM]] after drop, ratio of sku in 3c cannot find brand name given his item_name /shopee : 0.0 
+[[09/06/2018 06:51:11 PM]] after drop, ratio of sku in beauty cannot find brand name given his item_name / shopee: 0.0
+[[09/06/2018 06:51:12 PM]] thers is no bugging in validating strategy on beauty/amazon
+[[09/06/2018 06:51:12 PM]] thers is no bugging in validating strategy on tv_laptop/amazon
+[[09/06/2018 06:56:11 PM]] ratio of sku in 3c cannot find brand name given his item_name /amazon : 0.0
+[[09/06/2018 06:56:11 PM]] ratio of sku in beauty cannot find brand name given his item_name / amazon: 0.0
+[[09/06/2018 06:56:13 PM]] after drop, ratio of sku in 3c cannot find brand name given his item_name /amazon : 0.0
+[[09/06/2018 06:56:13 PM]] after drop, ratio of sku in beauty cannot find brand name given his item_name / amazon: 0.0
